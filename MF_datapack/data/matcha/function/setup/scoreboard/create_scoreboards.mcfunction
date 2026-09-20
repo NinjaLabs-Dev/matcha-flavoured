@@ -14,7 +14,6 @@ scoreboard players set 35 sneaking 35
 scoreboard players set 40 sneaking 40
 scoreboard players set 45 sneaking 45
 
-scoreboard objectives add Hunger food
 scoreboard objectives add HealthPoints health
 scoreboard objectives add deaths deathCount
 
@@ -99,9 +98,6 @@ scoreboard objectives add eerie dummy
 scoreboard players set 1 eerie 1
 
 scoreboard objectives add boating minecraft.custom:minecraft.boat_one_cm
-
-scoreboard objectives add eat_cake_slice minecraft.custom:minecraft.eat_cake_slice
-scoreboard players set 1 eat_cake_slice 1
 
 scoreboard objectives add anvil_interaction minecraft.custom:minecraft.interact_with_anvil
 scoreboard players set 0 anvil_interaction 0

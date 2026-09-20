@@ -14,12 +14,12 @@
 							"components": {
 								"minecraft:lore": [
 									{
-										"text": "\uE030\uE030",
+										"text": "",
 										"color": "red",
 										"italic": false
 									},
 									{
-										"text": "\uE030\uE030\uE030\uE030\uE030\uE030\uE030\uE030 (2:00)",
+										"text": " (2:00)",
 										"color": "aqua",
 										"italic": false
 									},
@@ -92,8 +92,8 @@
 									]
 								},
 								"minecraft:food": {
-									"nutrition": 0,
-									"saturation": 0,
+									"nutrition": 4,
+									"saturation": 2.4,
 									"can_always_eat": true
 								}
 							}

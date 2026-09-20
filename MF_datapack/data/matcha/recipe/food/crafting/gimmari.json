@@ -17,9 +17,8 @@
 				"translate": "item.kleispack.gimmari"
 			},
 			"minecraft:food": {
-				"nutrition": 0,
-				"saturation": 0,
-				"can_always_eat": true
+				"nutrition": 6,
+				"saturation": 3.6
 			},
 			"minecraft:consumable": {
 				"consume_seconds": 1.2,
@@ -33,13 +32,6 @@
 								"duration": 9600,
 								"show_particles": false,
 								"show_icon": true
-							},
-							{
-								"id": "minecraft:regeneration",
-								"amplifier": 2,
-								"duration": 72,
-								"show_particles": false,
-								"show_icon": false
 							}
 						]
 					}

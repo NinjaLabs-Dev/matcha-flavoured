@@ -1,4 +1,4 @@
-gamerule natural_health_regeneration false
+gamerule natural_health_regeneration true
 gamerule advance_time true
 gamerule spawn_phantoms false
 gamerule keep_inventory true

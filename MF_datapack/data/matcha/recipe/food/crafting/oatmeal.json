@@ -18,9 +18,8 @@
 				"translate": "item.kleispack.oatmeal"
 			},
 			"minecraft:food": {
-				"nutrition": 0,
-				"saturation": 0,
-				"can_always_eat": true
+				"nutrition": 10,
+				"saturation": 6.0
 			},
 			"minecraft:consumable": {
 				"consume_seconds": 1.8,
@@ -32,20 +31,6 @@
 								"id": "minecraft:speed",
 								"amplifier": 0,
 								"duration": 12000,
-								"show_particles": false,
-								"show_icon": true
-							},
-							{
-								"id": "minecraft:regeneration",
-								"amplifier": 2,
-								"duration": 120,
-								"show_particles": false,
-								"show_icon": false
-							},
-							{
-								"id": "minecraft:regeneration",
-								"amplifier": 0,
-								"duration": 2400,
 								"show_particles": false,
 								"show_icon": true
 							}
