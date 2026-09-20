@@ -14,46 +14,17 @@
 				"translate": "item.kleispack.canned_apples"
 			},
 			"minecraft:food": {
-				"nutrition": 0,
-				"saturation": 0,
-				"can_always_eat": true
+				"nutrition": 6,
+				"saturation": 3.6
 			},
 			"minecraft:consumable": {
-				"has_consume_particles": false,
-				"on_consume_effects": [
-					{
-						"type": "minecraft:apply_effects",
-						"effects": [
-							{
-								"id": "minecraft:regeneration",
-								"duration": 1200,
-								"show_particles": false,
-								"show_icon": true
-							},
-							{
-								"id": "minecraft:regeneration",
-								"amplifier": 2,
-								"duration": 72,
-								"show_particles": false,
-								"show_icon": false
-							}
-						]
-					}
-				]
+				"has_consume_particles": false
 			},
 			"minecraft:max_stack_size": 64,
 			"minecraft:lore": [
 				{
 					"text": "❤❤❤",
 					"color": "red",
-					"italic": false
-				},
-				{
-					"translate": "effect.kleispack.regeneration",
-					"with": [
-						"1:00"
-					],
-					"color": "#e85e8f",
 					"italic": false
 				}
 			],

@@ -5,9 +5,7 @@ function matcha:environmental/nether_water
 function matcha:environmental/village_eerie_sound
 
 function matcha:mechanics/anvil_xp/remove_xp
-function matcha:mechanics/cake_eaten
 function matcha:mechanics/heart_container/detect_death
-function matcha:mechanics/manage_hunger
 function matcha:mechanics/sleeping/tick
 function matcha:mechanics/spawn_mechanic/ticking
 execute as @e[type=minecraft:armor_stand,tag=WardingStone] at @s run function matcha:mechanics/warding_stone/tick

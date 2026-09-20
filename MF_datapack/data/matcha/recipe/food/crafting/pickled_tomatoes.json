@@ -14,9 +14,8 @@
 				"translate": "item.kleispack.pickled_tomatoes"
 			},
 			"minecraft:food": {
-				"nutrition": 0,
-				"saturation": 0,
-				"can_always_eat": true
+				"nutrition": 6,
+				"saturation": 3.6
 			},
 			"minecraft:consumable": {
 				"has_consume_particles": false,
@@ -29,13 +28,6 @@
 								"duration": 6000,
 								"show_particles": false,
 								"show_icon": true
-							},
-							{
-								"id": "minecraft:regeneration",
-								"amplifier": 2,
-								"duration": 72,
-								"show_particles": false,
-								"show_icon": false
 							}
 						]
 					}

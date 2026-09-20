@@ -17,33 +17,18 @@
 									"translate": "item.kleispack.glow_berry_jam"
 								},
 								"minecraft:food": {
-									"nutrition": 0,
-									"saturation": 0,
-									"can_always_eat": true
+									"nutrition": 4,
+									"saturation": 2.4
 								},
 								"minecraft:consumable": {
 									"animation": "drink",
 									"sound": "minecraft:item.honey_bottle.drink",
-									"has_consume_particles": true,
-									"on_consume_effects": [
-										{
-											"type": "minecraft:apply_effects",
-											"effects": [
-												{
-													"id": "minecraft:regeneration",
-													"amplifier": 2,
-													"duration": 48,
-													"show_particles": false,
-													"show_icon": false
-												}
-											]
-										}
-									]
+									"has_consume_particles": true
 								},
 								"minecraft:max_stack_size": 64,
 								"minecraft:lore": [
 									{
-										"text": "\uE030\uE030",
+										"text": "",
 										"color": "red",
 										"italic": false
 									},
