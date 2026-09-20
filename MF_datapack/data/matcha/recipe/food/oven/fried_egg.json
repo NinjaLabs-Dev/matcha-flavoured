@@ -15,8 +15,7 @@
 				}
 			],
 			"minecraft:consumable": {
-				"consume_seconds": 0.8,
-				"on_consume_effects": []
+				"consume_seconds": 0.8
 			},
 			"minecraft:item_model": "matcha:fried_egg",
 			"minecraft:item_name": {

@@ -12,21 +12,12 @@
 					"text": "❤❤❤❤❤❤❤❤❤❤",
 					"color": "red",
 					"italic": false
-				},
-				{
-					"translate": "effect.kleispack.regeneration",
-					"with": [
-						"10:00"
-					],
-					"color": "#e85e8f",
-					"italic": false
 				}
 			],
 			"minecraft:consumable": {
 				"consume_seconds": 3,
 				"animation": "drink",
-				"has_consume_particles": true,
-				"on_consume_effects": []
+				"has_consume_particles": true
 			},
 			"minecraft:item_model": "matcha:paneer_makhani",
 			"minecraft:item_name": {

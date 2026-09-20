@@ -17,9 +17,6 @@
 					"italic": false
 				}
 			],
-			"minecraft:consumable": {
-				"on_consume_effects": []
-			},
 			"minecraft:food": {
 				"nutrition": 3,
 				"saturation": 1.8

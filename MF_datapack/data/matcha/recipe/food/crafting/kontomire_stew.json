@@ -55,14 +55,6 @@
 					],
 					"color": "#e65f33",
 					"italic": false
-				},
-				{
-					"translate": "effect.kleispack.regeneration",
-					"with": [
-						"1:00"
-					],
-					"color": "#e85e8f",
-					"italic": false
 				}
 			],
 			"minecraft:use_remainder": {

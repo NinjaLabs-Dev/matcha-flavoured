@@ -14,9 +14,6 @@
 					"italic": false
 				}
 			],
-			"minecraft:consumable": {
-				"on_consume_effects": []
-			},
 			"minecraft:item_model": "matcha:naan",
 			"minecraft:item_name": {
 				"translate": "item.kleispack.naan"

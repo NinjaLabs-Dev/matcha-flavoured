@@ -46,14 +46,6 @@
 					"italic": false
 				},
 				{
-					"translate": "effect.kleispack.regeneration",
-					"with": [
-						"2:00"
-					],
-					"color": "#e85e8f",
-					"italic": false
-				},
-				{
 					"text": "🏃 +20% (10:00)",
 					"color": "#37cafb",
 					"italic": false

@@ -14,9 +14,6 @@
 					"italic": false
 				}
 			],
-			"minecraft:consumable": {
-				"on_consume_effects": []
-			},
 			"minecraft:item_model": "minecraft:cooked_cod",
 			"minecraft:food": {
 				"nutrition": 4,

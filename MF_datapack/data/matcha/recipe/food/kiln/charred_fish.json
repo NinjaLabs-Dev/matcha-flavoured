@@ -19,9 +19,6 @@
 					"italic": false
 				}
 			],
-			"minecraft:consumable": {
-				"on_consume_effects": []
-			},
 			"minecraft:item_model": "matcha:charred_fish",
 			"minecraft:item_name": {
 				"translate": "item.kleispack.charred_fish"

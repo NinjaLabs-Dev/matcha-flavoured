@@ -18,10 +18,7 @@
 										"color": "red",
 										"italic": false
 									}
-								],
-								"minecraft:consumable": {
-									"on_consume_effects": []
-								}
+								]
 							}
 						}
 					]
